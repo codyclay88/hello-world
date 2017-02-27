@@ -1,2 +1,2 @@
 # hello-world
-This is my git demo/tutorial/admission that I know nothing about git. 
+This is an awesome little repo about nothing. 
